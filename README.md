@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 i'm Daniel Boateng, I am a Mechatronics Engineering student with a unique "dual-competency" background. I don’t just write code; I understand how it interacts with physical hardware on the shop floor.
 
 <!--
 **danbuilds99/danbuilds99**
