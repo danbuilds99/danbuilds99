@@ -1,4 +1,24 @@
-## Hi there 👋 i'm Daniel Boateng, I am a Mechatronics Engineering student with a unique "dual-competency" background. I don’t just write code; I understand how it interacts with physical hardware on the shop floor.
+## Hi there 👋 i'm Daniel Boateng, I am a Mechatronics Engineering student with a unique "dual-competency" background. BTEC Level 3 Engineering Student
+
+Currently Learning
+
+🐍 Python
+📊 Excel Automation
+⚙️ CAD Automation
+
+Current Goal
+
+Build 50 Python projects before the end of the year.
+
+Current Projects
+
+✔ Student Information System
+⬜ Quiz Game
+⬜ Calculator
+⬜ Password Generator
+⬜ File Organizer
+
+Learning Every Day 🚀
 
 <!--
 **danbuilds99/danbuilds99**
